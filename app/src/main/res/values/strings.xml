@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">C346 Assignment 2</string>
+    <string name="title">Warranty Management</string>
+    <string name="intro">App Introduction</string>
+    <string name="desc">This app allows the user to manage different products and their warranty expiry, users will be able to add more products as they wish.</string>
+    <string name="web">WEBSITE</string>
+    <string name="product">PRODUCTS</string>
+    <string name="index">Enter Index Of Product</string>
+    <string name="product1"><![CDATA[Enter Product & Warranty Date]]></string>
+    <string name="add">ADD A NEW PRODUCT</string>
+    <string name="Edit">EDIT A PRODUCT</string>
+    <string name="delete">DELETE A PRODUCT</string>
+    <string-array name="spinnerItems">
+        <item>Expires in 1 Month</item>
+        <item>Expires in 3 Months</item>
+        <item>Expires in 6 Months</item>
+    </string-array>
+</resources>
